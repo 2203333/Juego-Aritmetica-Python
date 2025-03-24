@@ -1,0 +1,542 @@
+[
+    {
+        "Nombre": "Facu",
+        "Puntuacion": 3,
+        "Fecha": "2024-12-01"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-01"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-01"
+    },
+    {
+        "Nombre": "Emma",
+        "Puntuacion": 5,
+        "Fecha": "2024-12-01"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 5,
+        "Fecha": "2024-12-01"
+    },
+    {
+        "Nombre": "Adrian",
+        "Puntuacion": 13,
+        "Fecha": "2024-12-01"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 12,
+        "Fecha": "2024-12-01"
+    },
+    {
+        "Nombre": "eeee",
+        "Puntuacion": 3,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": "eeeee",
+        "Puntuacion": 4,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": "eeeee",
+        "Puntuacion": 5,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 4,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": "eeeee",
+        "Puntuacion": 4,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": "eeeee",
+        "Puntuacion": 3,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": "eeeee",
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": "eeee",
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 1,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": "eeeee",
+        "Puntuacion": 2,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 1,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": "Facu",
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": "4",
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 11,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": "Facundo",
+        "Puntuacion": 2,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": "Facu",
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": "Facundo",
+        "Puntuacion": 0,
+        "Fecha": "2024-12-02"
+    },
+    {
+        "Nombre": "Facundo",
+        "Puntuacion": 3,
+        "Fecha": "2024-12-03"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 1,
+        "Fecha": "2024-12-03"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 1,
+        "Fecha": "2024-12-03"
+    },
+    {
+        "Nombre": "Facundo",
+        "Puntuacion": 0,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 1,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": "Facu",
+        "Puntuacion": 1,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 5,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 6,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 2,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 3,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 4,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": "Facundo",
+        "Puntuacion": 4,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": "FFFF",
+        "Puntuacion": 3,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": "fafa",
+        "Puntuacion": 0,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": "Facu",
+        "Puntuacion": 2,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 1,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": "ALALLALALA",
+        "Puntuacion": 0,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": "Facu",
+        "Puntuacion": 4,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": null,
+        "Puntuacion": 0,
+        "Fecha": "2024-12-04"
+    },
+    {
+        "Nombre": "eee",
+        "Puntuacion": 5,
+        "Fecha": "2025-03-23"
+    }
+]
